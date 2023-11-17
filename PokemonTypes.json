@@ -43,6 +43,160 @@
         }
       ],
       "colname": "level2"
+    },
+    {
+      "name": "Electric",
+      "children": [
+        {
+          "name": "Electric",
+          "value": 73,
+          "colname": "level3"
+        }
+      ],
+      "colname": "level2"
+    },
+    {
+      "name": "Steel",
+      "children": [
+        {
+          "name": "Steel",
+          "value": 77,
+          "colname": "level3"
+        }
+      ],
+      "colname": "level2"
+    },
+    {
+      "name": "Rock",
+      "children": [
+        {
+          "name": "Rock",
+          "value": 77,
+          "colname": "level3"
+        }
+      ],
+      "colname": "level2"
+    },
+    {
+      "name": "Ground",
+      "children": [
+        {
+          "name": "Ground",
+          "value": 77,
+          "colname": "level3"
+        }
+      ],
+      "colname": "level2"
+    },
+    {
+      "name": "Dark",
+      "children": [
+        {
+          "name": "Dark",
+          "value": 82,
+          "colname": "level3"
+        }
+      ],
+      "colname": "level2"
+    },
+    {
+      "name": "Fighting",
+      "children": [
+        {
+          "name": "Fighting",
+          "value": 82,
+          "colname": "level3"
+        }
+      ],
+      "colname": "level2"
+    },
+    {
+      "name": "Poison",
+      "children": [
+        {
+          "name": "Poison",
+          "value": 86,
+          "colname": "level3"
+        }
+      ],
+      "colname": "level2"
+    },
+    {
+      "name": "Fire",
+      "children": [
+        {
+          "name": "Fire",
+          "value": 82,
+          "colname": "level3"
+        }
+      ],
+      "colname": "level2"
+    },
+    {
+      "name": "Bug",
+      "children": [
+        {
+          "name": "Bug",
+          "value": 92,
+          "colname": "level3"
+        }
+      ],
+      "colname": "level2"
+    },
+    {
+      "name": "Psychic",
+      "children": [
+        {
+          "name": "Psychic",
+          "value": 108,
+          "colname": "level3"
+        }
+      ],
+      "colname": "level2"
+    },
+    {
+      "name": "Flying",
+      "children": [
+        {
+          "name": "Flying",
+          "value": 112,
+          "colname": "level3"
+        }
+      ],
+      "colname": "level2"
+    },
+    {
+      "name": "Grass",
+      "children": [
+        {
+          "name": "Grass",
+          "value": 129,
+          "colname": "level3"
+        }
+      ],
+      "colname": "level2"
+    },
+    {
+      "name": "Normal",
+      "children": [
+        {
+          "name": "Normal",
+          "value": 132,
+          "colname": "level3"
+        }
+      ],
+      "colname": "level2"
+    },
+    {
+      "name": "Water",
+      "children": [
+        {
+          "name": "Water",
+          "value": 159,
+          "colname": "level3"
+        }
+      ],
+      "colname": "level2"
     }
   ],
   "name": "Types"
