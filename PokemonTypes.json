@@ -5,7 +5,6 @@
       "children": [
         {
           "name": "Ice",
-          "group": "A",
           "value": 58,
           "colname": "level3"
         }
@@ -17,7 +16,6 @@
       "children": [
         {
           "name": "Fairy",
-          "group": "C",
           "value": 69,
           "colname": "level3"
         }
@@ -29,7 +27,6 @@
       "children": [
         {
           "name": "Ghost",
-          "group": "B",
           "value": 72,
           "colname": "level3"
         }
@@ -41,7 +38,6 @@
       "children": [
         {
           "name": "Dragon",
-          "group": "A",
           "value": 73,
           "colname": "level3"
         }
