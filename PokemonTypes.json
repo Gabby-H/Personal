@@ -1,1 +1,74 @@
-{"children":[{"name":"boss1","children":[{"name":"mister_a","group":"A","value":28,"colname":"level3"},{"name":"mister_b","group":"A","value":19,"colname":"level3"},{"name":"mister_c","group":"C","value":18,"colname":"level3"},{"name":"mister_d","group":"C","value":19,"colname":"level3"}],"colname":"level2"},{"name":"boss2","children":[{"name":"mister_e","group":"C","value":14,"colname":"level3"},{"name":"mister_f","group":"A","value":11,"colname":"level3"},{"name":"mister_g","group":"B","value":15,"colname":"level3"},{"name":"mister_h","group":"B","value":16,"colname":"level3"}],"colname":"level2"},{"name":"boss3","children":[{"name":"mister_i","group":"B","value":10,"colname":"level3"},{"name":"mister_j","group":"A","value":13,"colname":"level3"},{"name":"mister_k","group":"A","value":13,"colname":"level3"},{"name":"mister_l","group":"D","value":25,"colname":"level3"},{"name":"mister_m","group":"D","value":16,"colname":"level3"},{"name":"mister_n","group":"D","value":28,"colname":"level3"}],"colname":"level2"}],"name":"CEO"}
+[
+  {
+    "name": "Ice",
+    "value": 58
+  },
+  {
+    "name": "Fairy",
+    "value": 69
+  },
+  {
+    "name": "Ghost",
+    "value": 72
+  },
+  {
+    "name": "Dragon",
+    "value": 73
+  },
+  {
+    "name": "Electric",
+    "value": 73
+  },
+  {
+    "name": "Steel",
+    "value": 77
+  },
+  {
+    "name": "Rock",
+    "value": 77
+  },
+  {
+    "name": "Ground",
+    "value": 77
+  },
+  {
+    "name": "Dark",
+    "value": 82
+  },
+  {
+    "name": "Fighting",
+    "value": 82
+  },
+  {
+    "name": "Poison",
+    "value": 86
+  },
+  {
+    "name": "Fire",
+    "value": 86
+  },
+  {
+    "name": "Bug",
+    "value": 92
+  },
+  {
+    "name": "Psychic",
+    "value": 108
+  },
+  {
+    "name": "Flying",
+    "value": 112
+  },
+  {
+    "name": "Grass",
+    "value": 129
+  },
+  {
+    "name": "Normal",
+    "value": 132
+  },
+  {
+    "name": "Water",
+    "value": 159
+  }
+]
