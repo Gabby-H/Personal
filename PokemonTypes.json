@@ -35,6 +35,18 @@
         }
       ],
       "colname": "level2"
+    },
+    {
+      "name": "Dragon",
+      "children": [
+        {
+          "name": "Dragon",
+          "group": "A",
+          "value": 73,
+          "colname": "level3"
+        }
+      ],
+      "colname": "level2"
     }
   ],
   "name": "Types"
