@@ -20,24 +20,6 @@
           "group": "C",
           "value": 69,
           "colname": "level3"
-        },
-        {
-          "name": "mister_f",
-          "group": "A",
-          "value": 11,
-          "colname": "level3"
-        },
-        {
-          "name": "mister_g",
-          "group": "B",
-          "value": 15,
-          "colname": "level3"
-        },
-        {
-          "name": "mister_h",
-          "group": "B",
-          "value": 16,
-          "colname": "level3"
         }
       ],
       "colname": "level2"
@@ -49,36 +31,6 @@
           "name": "Ghost",
           "group": "B",
           "value": 72,
-          "colname": "level3"
-        },
-        {
-          "name": "mister_j",
-          "group": "A",
-          "value": 13,
-          "colname": "level3"
-        },
-        {
-          "name": "mister_k",
-          "group": "A",
-          "value": 13,
-          "colname": "level3"
-        },
-        {
-          "name": "mister_l",
-          "group": "D",
-          "value": 25,
-          "colname": "level3"
-        },
-        {
-          "name": "mister_m",
-          "group": "D",
-          "value": 16,
-          "colname": "level3"
-        },
-        {
-          "name": "mister_n",
-          "group": "D",
-          "value": 28,
           "colname": "level3"
         }
       ],
